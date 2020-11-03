@@ -20,7 +20,8 @@ const PackagesWrapper = styled.section`
   .text-area {
     max-width: 500px;
     margin: 0 auto;
-
+    color: black;
+    
     @media (min-width: 1200px) {
       max-width: 650px;
     }

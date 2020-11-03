@@ -5,7 +5,7 @@ export default [
   },
   {
     path: "/",
-    text: "packages",
+    text: "values",
   },
   {
     path: "/",

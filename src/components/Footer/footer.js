@@ -6,14 +6,7 @@ const Footer = () => {
   return (
     <FooterWrapper>
       <div className="credit">
-        Designed & developed by{" "}
-        <a
-          href="http://www.morganbaker.dev"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Morgan
-        </a>
+        Designed & developed by Siva Ramakrishnan
       </div>
       {socialIcons.map((item, index) => {
         return (

@@ -25,8 +25,7 @@ const LayoutWrapper = styled.div`
   font-family: "Gothic A1", sans-serif;
   color: #fff;
   /* background-color: #060c21; */
-  background: linear-gradient(45deg, #060c21, #0d0139);
-
+  background: linear-gradient(#FF8008, #FFC837);
   h1,
   h2,
   h3,

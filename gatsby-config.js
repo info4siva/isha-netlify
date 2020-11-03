@@ -8,12 +8,12 @@ const path = require(`path`)
 
 module.exports = {
   siteMetadata: {
-    title: "Startup",
-    titleTemplate: "%s | Helping startups get started",
+    title: "Isha Cabs & Logistics",
+    titleTemplate: "%s | Logistics for future !",
     description: "A simple one-page site for new businesses that uses GatsbyJS",
-    author: "Morgan Baker",
+    author: "Siva Ramakrishnan",
     image: "/yellow-metal-design-decoration.jpg",
-    siteUrl: "https://www.morganbaker.dev",
+    siteUrl: "https://www.linkedin.com/in/info4siva",
     twitterUsername: "@twitter",
   },
   plugins: [
@@ -25,8 +25,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-styled-components`,
-    `gatsby-plugin-sharp`,
-    `gatsby-transformer-sharp`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sitemap`,
   ],

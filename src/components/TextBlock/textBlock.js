@@ -38,8 +38,7 @@ const TextBlock = ({ title, paragraph, children, id }) => {
 }
 
 const TextBlockWrapper = styled.section`
-  background: linear-gradient(45deg, #060c21, #0d0139);
-  color: #fff;
+  color: #003366;
   text-align: left;
   padding: 60px 20px;
 
@@ -57,8 +56,8 @@ const TextBlockWrapper = styled.section`
 
   p {
     margin-bottom: 40px;
-    text-shadow: 0px 0px 5px rgba(8, 0, 8, 1);
     opacity: 0.85;
+    color: black;
   }
 `
 

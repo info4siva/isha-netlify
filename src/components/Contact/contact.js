@@ -77,7 +77,7 @@ const ContactWrapper = styled.section`
     }
     p {
       margin-bottom: 2rem;
-
+      color: black;
       @media (min-width: 768px) {
         text-align: center;
       }

@@ -26,6 +26,7 @@ const PackageWrapper = styled.article`
 
   .content {
     background: #051342;
+    
     color: #fff;
     text-align: center;
     padding: 1.5rem;
